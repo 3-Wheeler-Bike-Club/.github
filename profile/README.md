@@ -18,3 +18,10 @@ Join 3 Wheeler Bike Club, where riders build credit, access financing, and take 
 - **Warpcast/Farcaster**: [@3wbclub](https://warpcast.com/3wbclub)
 - **Twitter/X**: [@3wbClub](https://x.com/3wbClub)
 
+## 🎨 Contribute
+3 Wheeler Bike Club is open-source and welcomes contributions! We will update this section with a Contributing Guide ASAP to show you how to get involved. For now leave some stars & fork our repos!
+
+## ✨ Stay Updated
+Follow our updates and announcements for new releases, partnerships, and features.
+
+**3 Wheeler Bike Club - Community, Governance & Ownership 🛺💨**

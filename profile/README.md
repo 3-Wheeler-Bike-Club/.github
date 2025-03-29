@@ -5,4 +5,9 @@ Membership Club for 3 Wheeler(TukTuk/Pragia/Keke) Bikers built on the pillars of
 ## 🏦 What We Offer
 3 Wheeler Bike Club empowers three-wheeler bike riders with community finance tools for vehicle ownership: 
 - **3WB Riders Club**: A platform where TukTuk riders pay dues, build credit, govern their treasury, and access P2P fleet financing to drive-to-own their vehicles. 
-- **P2P Fleet Financing**: A decentralized way for individuals to fund a fleet of 3-Wheeler Bikes, empowering riders to achieve ownership while earning a decent ROI. 
+- **P2P Fleet Financing**: A decentralized way for individuals to fund a fleet of 3-Wheeler Bikes, empowering riders to achieve ownership while earning a decent ROI.
+
+## 👉 Getting Started
+Join 3 Wheeler Bike Club, where riders build credit, access financing, and take control of their future—while backers earn a decent ROI by empowering riders. Get started by exploring our platforms:
+- **[3WB Riders Club](https://member.3wb.club)** – A Community Built for Riders, by Riders. 
+- **[P2P Fleet Financing](https://finance.3wb.club)** – "Invest in a Fleet, Power More Journeys. 

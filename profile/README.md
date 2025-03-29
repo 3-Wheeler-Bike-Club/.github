@@ -11,3 +11,10 @@ Membership Club for 3 Wheeler(TukTuk/Pragia/Keke) Bikers built on the pillars of
 Join 3 Wheeler Bike Club, where riders build credit, access financing, and take control of their future—while backers earn a decent ROI by empowering riders. Get started by exploring our platforms:
 - **[3WB Riders Club](https://member.3wb.club)** – A Community Built for Riders, by Riders. 
 - **[P2P Fleet Financing](https://finance.3wb.club)** – "Invest in a Fleet, Power More Journeys. 
+
+## 💬 Join the Community
+3 Wheeler Bike Club thrives on community-driven innovation. Join us to collaborate and shape the future of rural-urban transpotation:
+- **Telegram**: [Join the conversation](https://t.me/+VXP8uKKIoyxhYjUx)
+- **Warpcast/Farcaster**: [@3wbclub](https://warpcast.com/3wbclub)
+- **Twitter/X**: [@3wbClub](https://x.com/3wbClub)
+

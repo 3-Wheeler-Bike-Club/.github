@@ -14,7 +14,7 @@ Join 3 Wheeler Bike Club, where riders build credit, access financing, and take 
 
 ## 💬 Join the Community
 3 Wheeler Bike Club thrives on community-driven innovation. Join us to collaborate and shape the future of rural-urban transpotation:
-- **Telegram**: [Join the conversation](https://t.me/+VXP8uKKIoyxhYjUx)
+- **Telegram**: [Join the conversation](https://t.me/threeWB)
 - **Warpcast/Farcaster**: [@3wbclub](https://warpcast.com/3wbclub)
 - **Twitter/X**: [@3wbClub](https://x.com/3wbClub)
 
